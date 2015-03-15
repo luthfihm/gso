@@ -1,0 +1,70 @@
+/* CSS Document */
+#box{padding:3px 3px 3px 3px;
+	  border:1px solid #CCCCCC;
+	  -moz-border-radius: 3px;
+	  margin-top:3px;
+	  background:#FFFFFF;
+	  }
+#box_title{background:url(../image/p5.png) repeat-x;
+			font-family:Arial;
+			font-size:15px;
+			color:#FFFFFF;
+			font-weight:bold;
+			padding:7px 4px 7px 4px;
+			-moz-border-radius: 3px;
+			text-align:center;
+			}
+#box_child{padding:3px 4px 3px 4px;
+			margin:0px 0px 0px 5px;
+			background:url(../image/blt_gry_arrow.png) left no-repeat;
+			text-indent:10px;
+			border-bottom:1px dotted #CCCCCC;
+}
+#box_child a{text-decoration:none;
+			 color:#006699;
+			 font-size:13px;
+			}
+#box_child:hover{font-weight:bold}
+#box_isi{color:#333333;
+		font-size:13px;
+		padding:3px 3px 3px 3px;
+		}
+#box_isi a{text-decoration:none;
+			color:#006699;
+			}
+#box_isi a:hover{text-decoration:underline}
+#ok{background:url(../image/sign_ok_big.png) left no-repeat;
+	padding:25px 5px 25px 50px;
+	}
+#err{background:url(../image/sign_warning.png) left no-repeat;
+	padding:25px 5px 25px 50px;
+	}
+#judul{
+	padding:5px 5px 5px 0px;
+	color:#006699;
+	letter-spacing:1px;
+	font-size:14px;
+	background:#F7F7F7;
+	-moz-border-radius: 7px;
+	}
+#judul_page{
+	color:#333333;
+	font-size:15px;
+	border-bottom:1px dotted #CCCCCC;
+	font-weight:bold;
+	height: auto;
+	width: auto;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+	}
+	
+#topLink a{text-decoration:none; color:#000000}
+#topLink a:hover{text-decoration:underline;color:#006699}
+#topLink{font-size:15px; font-weight:bold; font-family:Arial; padding:7px 3px 7px 0px; text-align:left;margin-left:5px}
+/*body {
+	background-image: url(../image/all_bg.gif);
+	background-repeat: repeat;
+}*/
+
